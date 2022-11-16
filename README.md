@@ -1,6 +1,6 @@
 Hello!
 
-My name is Neel Chudasama and this is my project conducting Data Wrangling and EDA on a Mosquito Data.
+My name is Neel Chudasama and this is my project conducting Data Wrangling and EDA on a Mosquito Dataset.
 
 In this project, I use python clean the dataframe and explore the data to gain insights. The goal of this task was to clean the data and gain a higher level of understanding of West Nile Virus (WNV).
 
